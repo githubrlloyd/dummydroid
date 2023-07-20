@@ -61,7 +61,7 @@
 
 		<plugins>
 
-			<!-- download source code in Eclipse, best practice -->
+			<!-- download source code in Eclipse, best practice 
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-eclipse-plugin</artifactId>
@@ -70,7 +70,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>false</downloadJavadocs>
 				</configuration>
-			</plugin>
+			</plugin>-->
 
 			<!-- Set a compiler level -->
 			<plugin>
